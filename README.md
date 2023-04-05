@@ -1,2 +1,6 @@
-# UDP-ClientServer
-Simple Client Server connection using User datagram protocol (UDP) 
+# Network Protocols 
+Repository contains networks protocol algorithms 
+
+## Protocols 
+- **U**ser **D**atagram **P**rotocols 
+- **T**ransmission **C**ontrol **P**rotocol
