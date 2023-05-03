@@ -1,4 +1,4 @@
-# Network Protocols 
+# Computer Network Protocols 
 Repository contains networks protocol algorithms 
 
 ## Protocols 
